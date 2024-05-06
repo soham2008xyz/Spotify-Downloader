@@ -5,3 +5,4 @@ youtube_dl
 pafy
 spotipy
 git+https://github.com/nicfit/eyeD3.git
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
