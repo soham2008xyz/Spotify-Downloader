@@ -47,7 +47,7 @@ pydantic = "^2.6.4"
 fastapi = ">=0.103,<0.113"
 platformdirs = "^4.2.0"
 pykakasi = "^2.2.1"
-syncedlyrics = "^0.7.0"
+syncedlyrics = ">=0.7,<1.1"
 soundcloud-v2 = "^1.3.7"
 setuptools = ">=69.2,<75.0"
 

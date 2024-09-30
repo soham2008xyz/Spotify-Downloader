@@ -2434,18 +2434,18 @@ full = ["httpx (>=0.22.0)", "itsdangerous", "jinja2", "python-multipart (>=0.0.7
 
 [[package]]
 name = "syncedlyrics"
-version = "0.7.0"
+version = "1.0.1"
 description = "Get an LRC format (synchronized) lyrics for your music"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "syncedlyrics-0.7.0-py3-none-any.whl", hash = "sha256:12b5df0dbf620fa1525a7b1ed01d7fe5fd36106c1dab0c109998482fd9bac31f"},
-    {file = "syncedlyrics-0.7.0.tar.gz", hash = "sha256:14d73ff0062b2fc89acf810f50c5ad652b1eed4830f4a82e00236ce7a21388ed"},
+    {file = "syncedlyrics-1.0.1-py3-none-any.whl", hash = "sha256:31ca4322311b454f969e837c7350ecbef241f705f2122ea0183a2902a1a3791a"},
+    {file = "syncedlyrics-1.0.1.tar.gz", hash = "sha256:3db32469ed5a6dd5d96bb4eb16df44ba749121529b462efe0eb8b3df790f66b0"},
 ]
 
 [package.dependencies]
-beautifulsoup4 = ">=4.12.2,<5.0.0"
-rapidfuzz = ">=3.5.2,<4.0.0"
+beautifulsoup4 = ">=4.12.3,<5.0.0"
+rapidfuzz = ">=3.6.2,<4.0.0"
 requests = ">=2.31.0,<3.0.0"
 
 [[package]]
@@ -3047,4 +3047,4 @@ test = ["big-O", "jaraco.functools", "jaraco.itertools", "jaraco.test", "more-it
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.8,<3.13"
-content-hash = "14aa225d7233c295e3324828124a3af3d8187e925e384eb30b6b5b6a23878e96"
+content-hash = "e3dadcc700e3c13ecff72146b166f0129d3ff9b0b4e23df38ce9f46ac0ecd9cb"
