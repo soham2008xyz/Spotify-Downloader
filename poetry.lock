@@ -3017,13 +3017,13 @@ test = ["pytest (>=8.1,<9.0)"]
 
 [[package]]
 name = "ytmusicapi"
-version = "1.6.0"
+version = "1.7.5"
 description = "Unofficial API for YouTube Music"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "ytmusicapi-1.6.0-py3-none-any.whl", hash = "sha256:0484bd491a8292d447636f88eb15460ac1b71d57b1c5b2ef5d0db99294598cd8"},
-    {file = "ytmusicapi-1.6.0.tar.gz", hash = "sha256:0e515f941682c0b15259be7154200d9930678c353c8cd192007c496f1a4ba7db"},
+    {file = "ytmusicapi-1.7.5-py3-none-any.whl", hash = "sha256:fb46169553b4ed59b7450b088c861eda86d88cff0080b9ddf53d4452dba92386"},
+    {file = "ytmusicapi-1.7.5.tar.gz", hash = "sha256:b306c330bdf81888f01d9f62fea96bf19bdd521999536988e98dbf6be41009fe"},
 ]
 
 [package.dependencies]
