@@ -37,7 +37,7 @@ ytmusicapi = [
 pytube = "^15.0.0"
 yt-dlp = "^2024.3.10"
 mutagen = "^1.47.0"
-rich = "^13.7.1"
+rich = ">=13.7.1,<15.0.0"
 beautifulsoup4 = "^4.12.3"
 requests = "^2.31.0"
 rapidfuzz = "^3.7.0"
